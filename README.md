@@ -103,7 +103,10 @@ The project demonstrates:
 ## Database
 
 - 🗄 SQLite
-- SQLAlchemy ORM
+- 🐬 MySQL Database
+- 🛠 MySQL Workbench
+- 🔗 SQLAlchemy ORM
+- 🐍 PyMySQL
 
 
 ## Development Tools
